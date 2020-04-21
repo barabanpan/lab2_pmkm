@@ -38,5 +38,10 @@
   <ItemGroup>
     <Compile Include="Purse.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <Reference Include="BusinessCard">
+      <HintPath>..\BusinessCard\bin\Debug\BusinessCard.dll</HintPath>
+    </Reference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
