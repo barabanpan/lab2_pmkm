@@ -12,6 +12,9 @@ class Purse
         Money money = new Money(300);
         Console.WriteLine(money.HowMuch());
 
+        CreditCard creditCard = new CreditCard("0904623442");
+        Console.WriteLine(creditCard.info());
+
         Console.Read();
     }
 }

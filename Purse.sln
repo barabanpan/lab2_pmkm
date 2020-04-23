@@ -6,10 +6,14 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Purse", "Purse\Purse.csproj", "{0C65D188-11B1-4326-91A3-89087169EE94}"
 EndProject
 <<<<<<< HEAD
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessCard", "BusinessCard\BusinessCard.csproj", "{96DE4FE8-93DC-4184-B980-B1EEBE819441}"
 =======
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Money", "Money\Money.csproj", "{414193D3-3FAE-4FC3-90A8-F18D9B30292F}"
 >>>>>>> money
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditCard", "CreditCard\CreditCard.csproj", "{9D0DE1DF-1A12-497F-914B-99F9B1C43A5F}"
+>>>>>>> Credit
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -22,6 +26,7 @@ Global
 		{0C65D188-11B1-4326-91A3-89087169EE94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C65D188-11B1-4326-91A3-89087169EE94}.Release|Any CPU.Build.0 = Release|Any CPU
 <<<<<<< HEAD
+<<<<<<< HEAD
 		{96DE4FE8-93DC-4184-B980-B1EEBE819441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{96DE4FE8-93DC-4184-B980-B1EEBE819441}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96DE4FE8-93DC-4184-B980-B1EEBE819441}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -32,6 +37,12 @@ Global
 		{414193D3-3FAE-4FC3-90A8-F18D9B30292F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{414193D3-3FAE-4FC3-90A8-F18D9B30292F}.Release|Any CPU.Build.0 = Release|Any CPU
 >>>>>>> money
+=======
+		{9D0DE1DF-1A12-497F-914B-99F9B1C43A5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D0DE1DF-1A12-497F-914B-99F9B1C43A5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D0DE1DF-1A12-497F-914B-99F9B1C43A5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D0DE1DF-1A12-497F-914B-99F9B1C43A5F}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> Credit
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
