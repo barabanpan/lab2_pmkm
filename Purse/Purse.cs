@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 class Purse
 {
@@ -8,6 +8,9 @@ class Purse
 
         BusinessCard businessCard = new BusinessCard("1234567890");
         Console.WriteLine(businessCard.info());
+
+        Money money = new Money(300);
+        Console.WriteLine(money.HowMuch());
 
         Console.Read();
     }
